@@ -10,8 +10,7 @@ signals
 3. connect_four_datapath - Maintains board state, validates moves, and detects 
 wins  
 4. connect_four_display - Renders the game board onto the 16×16 LED matrix 
-
-I/O Mapping: 
+ 
 ## Input/Output 
 KEY0: Drop token in current column
 
